@@ -24,6 +24,7 @@ jobs:
           - v1.14.1
           - v1.15.0
           - v1.15.1
+          - v1.15.2
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
